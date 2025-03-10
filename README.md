@@ -1,2 +1,2 @@
 # My_HackerRank
-# In this repository i want to upload my HackerRank codes
+# In this repository I upload my HackerRank codes
